@@ -8,7 +8,7 @@ Required environmental variables
 
 ```bash
 FL_USER - fl username
-FL_PASS" - fl passkey ( check forums )
+FL_PASS - fl passkey ( check forums )
 OMDBAPIK - visit https://www.omdbapi.com/
 
 qb client
